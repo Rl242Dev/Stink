@@ -5,7 +5,7 @@ myHelp = ["To run an app type the name of the app/file, if there's any error(s) 
 myList = ["NoRecoil"]
 
 
-print('The version that you are currently using is Version 0.1')
+print('The version that you are currently using is Version 0.3')
 time.sleep(5)
 TotalChoose = input("Welcome to Stink, if you want help to see Commands type \"Help\'.To Choose an App type \"AppChoose\".") 
 if TotalChoose == ('Help'):
