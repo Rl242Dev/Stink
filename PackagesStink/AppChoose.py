@@ -13,7 +13,7 @@ class myDirOs:
 
 myList = ['NoRecoil','ShortCuts','PasswordGenerator','Calculator']
 
-print('The version that you are currently using is Version 0.3')
+print('The version that you are currently using is Version 0.4')
 AppChoose = input('Hey Welcome to AppChoose, if you want the list of Application type \"List\", or just type the name or the application/file. ')
 if AppChoose == ('List'):
     print(myList)
