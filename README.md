@@ -53,7 +53,9 @@ Send a message to rl242dev(at)gmail.com with a detailed report of what you're ex
 -----------------------------------
 
 Current Version 0.3
+
 Last Uptade 23/07/2021
+
 Available Language: 
 English
 
