@@ -52,7 +52,7 @@ Got issues or bugs to report?
 Send a message to rl242dev(at)gmail.com with a detailed report of what you're experiencing.
 -----------------------------------
 
-Current Version 0.4
+Current Version 0.5
 
 Last Uptade 23/07/2021
 
