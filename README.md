@@ -37,7 +37,7 @@ ShortCuts:
 
 <a href="https://ibb.co/PhYQ7Gb"><img src="https://i.ibb.co/zR5JyVL/Screen-Name-Short-Cuts.png" alt="Screen-Name-Short-Cuts" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>my my picture</a><br />
 
-3.Type the directory the .exe is in (eg: C:\\Program Files\\Call Of Duty Modern Warfare\\codmw.exe). Allways put 2 Backwards Slash [Ctrl + Alt + 8]
+3.Type the directory the .exe is in (eg: C:\\Program Files\\CallOfDutyModernWarfare\\codmw.exe). Allways put 2 Backwards Slash [Ctrl + Alt + 8]
 
 <a href="https://ibb.co/JjXT7G7"><img src="https://i.ibb.co/fdmWpyp/Screen-Dir-Your-Short-Cuts.png" alt="Screen-Dir-Your-Short-Cuts" border="0"></a>
 
