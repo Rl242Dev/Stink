@@ -11,9 +11,9 @@ class myDirOs:
         subprocess.Popen([dir])
         subprocess.call(dir)
 
-myList = ['NoRecoil','ShortCuts','PasswordGenerator','Calculator']
+myList = ['NoRecoil','ShortCuts','PasswordGenerator','Calculator','DiskCleaner']
 
-print('The version that you are currently using is Version 0.4')
+print('The version that you are currently using is Version 0.5')
 AppChoose = input('Hey Welcome to AppChoose, if you want the list of Application type \"List\", or just type the name or the application/file. ')
 if AppChoose == ('List'):
     print(myList)
@@ -37,6 +37,11 @@ if AppChoose == ('List'):
      myDirOs
      time.sleep(3)
      sys.exit
+    if AppList == ('DiskCleaner'):
+     dir = 'C:\\Users\\Robin\\Desktop\\GithubStink\\Stink\\PackagesStink\\Dir\\DiskCleaner.py'
+     myDirOs
+     time.sleep
+     sys.exit
 if AppChoose == ('ShortCuts'):
     dir = 'C:\\Users\\Robin\\Desktop\\GithubStink\\Stink\\PackagesStink\\Dir\\ShortCuts.py'
     myDirOs
@@ -56,6 +61,11 @@ if AppChoose == ('PasswordGenerator'):
     dir = 'C:\\Users\\Robin\\Desktop\\GithubStink\\Stink\\PackagesStink\\Dir\\PasswordGenerator.py'
     myDirOs
     time.sleep(3)
+    sys.exit
+if AppChoose == ('DiskCleaner'):
+    dir = 'C:\\Users\\Robin\\Desktop\\GithubStink\\Stink\\PackagesStink\\Dir\\DiskCleaner.py'
+    myDirOs
+    time.sleep
     sys.exit
 else:
     time.sleep(3)
