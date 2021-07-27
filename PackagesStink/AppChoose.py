@@ -11,7 +11,7 @@ class myDirOs:
         subprocess.Popen([dir])
         subprocess.call(dir)
 
-myList = ['NoRecoil','ShortCuts','PasswordGenerator','Calculator','DiskCleaner']
+myList = ['NoRecoil','ShortCuts','PasswordGenerator','Calculator','DiskCleaner','RPASimulator','DiceSimulator']
 
 print('The version that you are currently using is Version 0.5')
 AppChoose = input('Hey Welcome to AppChoose, if you want the list of Application type \"List\", or just type the name or the application/file. ')
@@ -40,7 +40,17 @@ if AppChoose == ('List'):
     if AppList == ('DiskCleaner'):
      dir = 'C:\\Users\\Robin\\Desktop\\GithubStink\\Stink\\PackagesStink\\Dir\\DiskCleaner.py'
      myDirOs
-     time.sleep
+     time.sleep(3)
+     sys.exit
+    if AppList == ('DiceSimulator'):
+     dir = 'C:\\Users\\Robin\\Desktop\\GithubStink\\Stink\\PackagesStink\\Dir\\DiceSimulator.py'
+     myDirOs
+     time(3)
+     sys.exit
+    if AppList == ('RPASimulator'):
+     dir = 'C:\\Users\\Robin\\Desktop\\GithubStink\\Stink\\PackagesStink\\Dir\\RPASimulator'
+     myDirOs
+     time.sleep(3)
      sys.exit
 if AppChoose == ('ShortCuts'):
     dir = 'C:\\Users\\Robin\\Desktop\\GithubStink\\Stink\\PackagesStink\\Dir\\ShortCuts.py'
@@ -65,7 +75,17 @@ if AppChoose == ('PasswordGenerator'):
 if AppChoose == ('DiskCleaner'):
     dir = 'C:\\Users\\Robin\\Desktop\\GithubStink\\Stink\\PackagesStink\\Dir\\DiskCleaner.py'
     myDirOs
-    time.sleep
+    time.sleep(3)
+    sys.exit
+if AppChoose == ('DiceSimulator'):
+    dir = 'C:\\Users\\Robin\\Desktop\\GithubStink\\Stink\\PackagesStink\\Dir\\DiceSimulator.py'
+    myDirOs
+    time(3)
+    sys.exit
+if AppChoose == ('RPASimulator'):
+    dir = 'C:\\Users\\Robin\\Desktop\\GithubStink\\Stink\\PackagesStink\\Dir\\RPASimulator'
+    myDirOs
+    time.sleep(3)
     sys.exit
 else:
     time.sleep(3)
