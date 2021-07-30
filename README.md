@@ -1,7 +1,7 @@
 # Stink
 # Welcome To Stink
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/cXKGQwb/Logo-Stink-V1.png" alt="Logo-Stink-V1" border="0"></a><br /><a target='_blank' href='https://fr.imgbb.com/'>partage photo ligne</a><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/cXKGQwb/Logo-Stink-V1.png" alt="Logo-Stink-V1" border="0"></a><br /><a target='_blank' href='https://fr.imgbb.com/'></a><br />
 
 Since Stink has a lot of functions, here's a summary of all you need to know, starting with NoRecoil.
 
@@ -15,7 +15,7 @@ NoRecoil:
 
 2. Edit the number next to "Sleep" according to your sensitivity. Higher sensitivities require larger numbers. Lower sensitivities require lower numbers.
 
-<a href="https://ibb.co/5xmxqSy"><img src="https://i.ibb.co/mFkFQ2w/Screen-Sleep.png" alt="Screen-Sleep" border="0"></a><br /><a target='_blank' href='https://usefulwebtool.com/fr/clavier-mathematique'>symbole logique</a><br />
+<a href="https://ibb.co/5xmxqSy"><img src="https://i.ibb.co/mFkFQ2w/Screen-Sleep.png" alt="Screen-Sleep" border="0"></a><br /><a target='_blank' href='https://usefulwebtool.com/fr/clavier-mathematique'></a><br />
 
 3. You're ready to play the game. If you get banned, don't complain, you're using a hack anyways and you're fully aware of that.
 
@@ -35,7 +35,7 @@ ShortCuts:
 
 2. Edit 'YouChoose' to set the name of your ShortCut eg('COD').
 
-<a href="https://ibb.co/PhYQ7Gb"><img src="https://i.ibb.co/zR5JyVL/Screen-Name-Short-Cuts.png" alt="Screen-Name-Short-Cuts" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>my my picture</a><br />
+<a href="https://ibb.co/PhYQ7Gb"><img src="https://i.ibb.co/zR5JyVL/Screen-Name-Short-Cuts.png" alt="Screen-Name-Short-Cuts" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 
 3.Type the directory the .exe is in (eg: C:\\Program Files\\CallOfDutyModernWarfare\\codmw.exe). Allways put 2 Backwards Slash [Ctrl + Alt + 8]
 
