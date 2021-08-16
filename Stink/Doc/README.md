@@ -65,7 +65,7 @@ Credit :
 
 Home Page: prplskelly
 
-Developping: Rl242Dev
+Developping: Rl242Dev + Neftaaa
 
 NoRecoil: LePlusBeau#8524
 
